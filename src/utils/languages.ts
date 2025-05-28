@@ -109,6 +109,42 @@ export const languages: Record<string, Language> = {
   python: {
     name: "Python",
     iconName: "python",
+  },  
+  unity: {
+    name: "Unity",
+    iconName: "unity",
+  },
+  blender: {
+    name: "Blender",
+    iconName: "blender",
+  },  
+  cplusplus: {
+    name: "C++",
+    iconName: "c-plusplus",
+  }, 
+  c: {
+    name: "C",
+    iconName: "c",
+  },
+  csharp: {
+    name: "C#",
+    iconName: "csharp",
+  },
+  photoshop: {
+    name: "Photoshop",
+    iconName: "photoshop",
+  },  
+  slack: {
+    name: "Slack",
+    iconName: "slack",
+  }, 
+  unreal: {
+    name: "Unreal Engine",
+    iconName: "unreal",
+  },
+  visualstudio: {
+    name: "Visual Studio",
+    iconName: "visual-studio",
   },
 };
 
