@@ -2,7 +2,8 @@
 import Layout from "./Layout.astro";
 import { Icon } from "astro-icon/components";
 import Heading from "../components/ui/Heading.astro";
-import Experience from "../components/portfolio/Experience.astro";
+import Academica from "../components/portfolio/FormacionAcademica.astro";
+import Experiencia from "../components/portfolio/Experiencia.astro";
 import NavArticle from "../components/layout/NavArticle.astro";
 import Contact from "../components/portfolio/Contact.astro";
 import Tools from "../components/portfolio/Tools.astro";
@@ -90,12 +91,24 @@ const { frontmatter } = Astro.props;
     <div class="flex flex-col gap-8 pt-8 max-w-4xl mx-auto">
       <div class="flex gap-4 items-center justify-center">
         <Icon class="text-3xl text-white" name="briefcase" />
-        <Heading text="Experience" textGradient="Work" level={2} />
+        <Heading text="Formación" textGradient="Académica" level={2} />
       </div>
 
-      <Experience />
+      <Academica />
     </div>
   </section>
+
+  <section class="py-8 px-8 max-md:py-4 mb-4 scroll-m-16" id="experience">
+    <div class="flex flex-col gap-8 pt-8 max-w-4xl mx-auto">
+      <div class="flex gap-4 items-center justify-center">
+        <Icon class="text-3xl text-white" name="briefcase" />
+        <Heading text="Experiencia" textGradient="Laboral" level={2} />
+      </div>
+
+      <Experiencia />
+    </div>
+  </section>
+
   <section class="py-8 px-8 max-md:py-4 mt-10 mb-20 scroll-m-16" id="sttack">
     <div class="flex flex-col gap-8 max-w-3xl justify-center mx-auto">
       <div class="flex gap-4 items-center justify-center">
