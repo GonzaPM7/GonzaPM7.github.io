@@ -1,9 +1,11 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import Experience from "../components/portfolio/Experience.astro";
+import Academica from "../components/portfolio/FormacionAcademica.astro";
+import Experience from "../components/portfolio/Experiencia.astro";
 import HeroIndex from "../components/portfolio/HeroIndex.astro";
 import Contact from "../components/portfolio/Contact.astro";
 import ListProjects from "../components/portfolio/ListProjects.astro";
+import ListAnimation from "../components/portfolio/ListAnimation.astro";
 import { Icon } from "astro-icon/components";
 const pageTitle = "Gonzalo Pérez Martín";
 const description = "Is a modern, minimalist template crafted for developers and digital creatives.";
@@ -19,7 +21,7 @@ import Heading from "../components/ui/Heading.astro";
 
   <section
     class="py-8 px-8 max-md:py-4 mb-4 scroll-m-16"
-    id="experience"
+    id="academica"
   >
     <div class="flex flex-col  pt-8 max-w-4xl mx-auto">
       <div class="flex gap-4 items-center justify-center">
@@ -27,10 +29,25 @@ import Heading from "../components/ui/Heading.astro";
         <Heading text="Formación" textGradient="Académica" level={2}/>
       </div>
 
+      <Academica />
+    </div>
+  </section>
+
+  <section
+    class="py-8 px-8 max-md:py-4 mb-4 scroll-m-16"
+    id="academica"
+  >
+    <div class="flex flex-col  pt-8 max-w-4xl mx-auto">
+      <div class="flex gap-4 items-center justify-center">
+        <Icon class="text-3xl dark:text-white text-blacktext" name="briefcase" />
+        <Heading text="Experiencia" textGradient="Laboral" level={2}/>
+      </div>
+
       <Experience />
     </div>
   </section>
 
+  
   <section
     class="bg-gradient-to-t dark:from-[#0e0e10] from-[#fff] from-50% to-transparent to-100% scroll-m-16"
     id="projects"
@@ -42,6 +59,20 @@ import Heading from "../components/ui/Heading.astro";
           <Heading text="Proyectos" textGradient="Videojuegos" level={2}/>
         </div>
       </ListProjects>
+    </div>
+  </section>
+  
+  <section
+    class="bg-gradient-to-t dark:from-[#0e0e10] from-[#fff] from-50% to-transparent to-100% scroll-m-16"
+    id="animation"
+  >
+    <div class="flex flex-col gap-8 max-w-7xl mx-auto">
+      <ListAnimation>
+        <div class="flex gap-4 items-center justify-center text-center">
+          <Icon class="text-3xl dark:text-white text-blacktext" name="code" />
+          <Heading text="Proyectos de " textGradient="Animación" level={2}/>
+        </div>
+      </ListAnimation>
     </div>
   </section>
 

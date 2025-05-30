@@ -146,6 +146,22 @@ export const languages: Record<string, Language> = {
     name: "Visual Studio",
     iconName: "visual-studio",
   },
+  davinci: {
+    name: "DaVinci Resolve",
+    iconName: "davinci",
+  },
+  opentoonz: {
+    name: "OpenToonz",
+    iconName: "opentoonz",
+  },
+  githubsvg: {
+    name: "GitHub",
+    iconName: "github-svg",
+  },
+  procreate: {
+    name: "Procreate",
+    iconName: "procreate",
+  },
 };
 
 export const getLanguage = (lang: string): Language => {
