@@ -1,14 +1,39 @@
 ---
 layout: /src/layouts/MarkdownAbout.astro
-title: "Gonzalo Pérez Martín | My Journey in Technology and Web Development 🚀| EFEELE"
-description: "Web developer, technology enthusiast, and event organizer. From my beginnings in development to creating communities and impactful projects, here I share my journey, experiences, and learnings. 🚀☕"
-author: "Fernando Lopez"
+title: "Gonzalo Pérez Martín"
+description: ""
+author: "Gonzalo Pérez"
 image:
-  url: "/images/efeeleprofile.webp"
-  alt: "Photo of Fernando Aldair López Ponce (EFEELE) for the blog"
+  url: "/images/perfilgonzalo.webp"
+  alt: ""
 ---
 
-I started developing my first commercial projects as a web developer in 2017. Although I've been passionate about technology for as long as I can remember. I discovered the internet at age 6, and along with it, I learned to use **Paint** 🎨 and play **Pinball** on a **Windows XP** computer that my cousins had. Years passed, and I discovered there was a cyber café near my house, so accompanied by my older brother, I spent a lot of time there, watching others play **Age of Empires** ⚔️. When I could, I also played on the computers and investigated how those games worked. But above all, I remember that while sitting there, I watched the owner, Alfredo, the good <a href="https://fred.cpp.mx/" target="_blank" rel="noopener noreferrer">Fred</a>, while he programmed and modeled game maps, or at least that's what I remember. That made me want to try doing the same. I found it incredible how so many things happened on his screen that, although I couldn't understand them, looked amazing. Without a doubt, he was my first influence to get into programming.
+Soy desarrollador de videojuegos con una fuerte pasión por la creación de experiencias interactivas que combinan creatividad, tecnología y propósito. A lo largo de mi trayectoria he trabajado con distintas herramientas y motores, destacando Unity como mi entorno principal de desarrollo, donde he dado vida a proyectos que van desde videojuegos comerciales hasta experiencias con fines educativos.
+
+En 2017 compece el grado en Desarrollo de Videojuegos de la Universidad Complutense de Madrid donde adquirí una formación integral en el desarrollo de videojuegos desde distintas perspectivas: narrativa, estética y técnica. Aprendí los principios básicos del diseño narrativo y visual, así como el funcionamiento del proceso completo de construcción de un videojuego. Estudié la estructura y dinámica de los agentes implicados en la producción y comercialización de contenidos digitales interactivos, y comprendí cómo se gestionan y dirigen proyectos digitales, valorando su impacto social y económico.
+
+Desde el punto de vista técnico, desarrollé habilidades en el uso de estructuras de datos y algoritmos específicos para resolver problemas del desarrollo de videojuegos de manera eficiente.
+
+Adquirí competencias en la creación de contenido audiovisual para plataformas móviles y consolas, así como en el diseño de sistemas interactivos e interfaces centradas en el usuario. También exploré el uso de lenguajes interpretados para la extensión de herramientas de desarrollo, técnicas de aprendizaje automático aplicadas a videojuegos, y el pipeline completo de creación de contenidos digitales.
+
+Finalmente, desarrollé capacidades para optimizar el rendimiento de las aplicaciones, identificar cuellos de botella y adaptar los videojuegos a las limitaciones del hardware, incluyendo computadoras, consolas y dispositivos móviles.
+
+Durante estos años he participado en el desarrollo de numerosos proyectos de videojuegos, asumiendo roles en prácticamente todas las áreas del proceso creativo y técnico. He trabajado en programación, diseño de mecánicas y niveles, así como en el apartado artístico, encargándome de la creación de entornos, personajes y animaciones. Además, he producido tráilers y materiales visuales para presentar y promocionar los juegos que he desarrollado.
+
+Junto a mis compañeros de carrera, he desarrollado diversos proyectos en Unity, como <a href="portfolio/projects/BTR">Brokentooth Riders</a>, juegos serios como <a href="portfolio/projects/ArcanumSchool">Arcanum School</a> y varios prototipos, entre ellos [Nombre del juego de terror]. Además de trabajar con Unity, también he desarrollado videojuegos en Visual Studio utilizando C++ y la librería SDL, destacando el proyecto <a href="portfolio/projects/FallDrakhtar">The Fall of Drakhtar</a>.
+
+Participé también en la creación de un motor propio de videojuegos, con el que colaboré en el desarrollo de dos pequeños juegos: Mood y Cube. Por último, he trabajado en la creación de entornos en Unreal Engine, ampliando así mi experiencia en distintos motores de desarrollo.
+
+Durante mi Trabajo de Fin de Grado, colaboré con un compañero en el desarrollo de una herramienta de accesibilidad auditiva para Unity, <a href="portfolio/projects/ATT">Accesible Audio Toolkit</a>, orientada a facilitar el diseño inclusivo en videojuegos. Este proyecto fue reconocido por su utilidad y actualmente se encuentra publicado en la Unity Asset Store como una contribución abierta a la comunidad de desarrolladores.
+
+A nivel profesional, he trabajado en Custos Mobile como desarrollador de aplicaciones para terminales de punto de venta (TPV), participando en la creación de soluciones de pago electrónico (EFT-POS) y medios de pago adaptados a distintas plataformas y necesidades del mercado.
+
+Complementando mi perfil técnico, he cursado el Curso en Animación 3D: de la idea a la comercialización, donde aprendí técnicas de animación en stop motion, 2D y 3D. Esta experiencia me permitió desarrollar un enfoque más visual y narrativo, que aplico en mis videojuegos y proyectos audiovisuales.
+Durante el curso, desarrollé cortometrajes como ImagineWheels (un anuncio publicitario en stop motion) y A Basketball Day, una animación 2D con estilo cartoon creada desde cero.
+
+Actualmente, continúo desarrollando pequeños videojuegos, prototipos y escenas experimentales en Unity, explorando nuevas ideas, mecánicas y tecnologías con el objetivo de seguir creciendo como desarrollador y aportar experiencias originales y significativas a los jugadores.
+
+I started developing my first commercial projects as a web developer in 2017. Although I've been passionate about technology for as long as I can remember. I discovered the internet at age 6, and along with it, I learned to use **Paint** 🎨 and play **Pinball** on a **Windows XP** computer that my cousins had. Years passed, and I discovered there was a cyber café near my house, so accompanied by my older brother, I spent a lot of time there, watching others play **Age of Empires** ⚔️. When I could, I also played on the computers and investigated how those games worked. But above all, I remember that while sitting there, I watched the owner, Alfredo, the good <a href="portfolio/projects/BTR">Fred</a>, while he programmed and modeled game maps, or at least that's what I remember. That made me want to try doing the same. I found it incredible how so many things happened on his screen that, although I couldn't understand them, looked amazing. Without a doubt, he was my first influence to get into programming.
 
 When we got our first computer at home, around 2011, I spent all my time there, creating my own texture packs to integrate them into one of the games I played the most: **GTA SA**. For this, I learned to use **GIMP** and later **Photoshop**. I wanted to go further and started creating scenarios for the game, so that's when I learned 3D modeling. By then, I was already 12 years old, and I remember I had the intention of dedicating myself to creating video games 🎮. A couple of years later, knowing that programming is needed to create video games, I researched a bit and created my first website with **HTML 4** and **CSS3**. It was a static page, clearly not responsive, and its design and content were very poor, but I felt very proud seeing my page working online.
 
