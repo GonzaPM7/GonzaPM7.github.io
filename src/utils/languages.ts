@@ -162,6 +162,10 @@ export const languages: Record<string, Language> = {
     name: "Procreate",
     iconName: "procreate",
   },
+  logoHome: {
+    name: "Logo",
+    iconName: "logo",
+  }
 };
 
 export const getLanguage = (lang: string): Language => {

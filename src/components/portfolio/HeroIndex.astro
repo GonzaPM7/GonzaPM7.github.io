@@ -7,7 +7,6 @@ import Hobbies from "../portfolio/Hobbies.astro";
 
 const  {
   profileImage = "/images/perfilgonzalo.webp",
-  profileAlt = "Photo of Fernando Aldair López Ponce (EFEELE) for the blog",
   profileLink = "/about-me",
   profileTitle = "Desarrollador de Videojuegos",
   profileName = "Gonzalo Pérez Martín",
@@ -81,13 +80,13 @@ const  {
 
         <div class="flex gap-4 max-sm:flex-col max-sm:items-center">
           <Button
-            link={"mailto:" + email}
-            text="Contact Me"
+            link="#contact"
+            text="Contáctame"
             iconName="envelope"
           />
           <Button
             link={profileLink}
-            text="About Me"
+            text="Sobre mí"
             iconName="person"
             variant="dark"
           />

@@ -13,9 +13,11 @@ const linkedin = "https://www.linkedin.com/in/gonzalo-perez-videogames-developme
 // Check if the current route is in the list of routes
 const isActiveRoute = routes.includes(currentPath);
 
+
+// si añades "blog" se añadera en el header el apartado de blog
 const navItems = isActiveRoute 
-  ? ["home", "experience", "projects", "about", "blog",]
-  : ["home", "blog", "about"]; // Change the items
+  ? ["home", "formacion", "experiencia", "projectsVideogame", "animations", "about"]
+  : ["home", "formacion", "experiencia", "projectsVideogame", "animations", "about"]; // Change the items
 ---
 
 <header
@@ -29,7 +31,7 @@ const navItems = isActiveRoute
     <a href="/" aria-label="Go to home">
       <Icon
         name="logo"
-        class="h-6 cursor-pointer transition-all hover:text-mint-300"
+        class="h-10 w-auto cursor-pointer transition-all hover:text-mint-300"
         aria-hidden="true"
       />
     </a>

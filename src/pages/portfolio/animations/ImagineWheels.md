@@ -22,4 +22,4 @@ Se trata de un pequeño anuncio para una marca imaginaria, protagonizado por un 
 
 ## 🌐 Resultado
 
-​▶️​ [Video](https://youtu.be/ZItJ1V2y78E?si=PQK-DLmsfTnIizWJ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZItJ1V2y78E?si=KHSw2MZzOQzVY0yp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

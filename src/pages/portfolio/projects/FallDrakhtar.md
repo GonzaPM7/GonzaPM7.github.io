@@ -24,6 +24,9 @@ Antonio Román Cerezo, Omar Naranjo Caprachi, Miguel Zhefan Ye Ye, Gonzalo Pére
 
 ## 🌐 Resultado
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aljHRY8NswA?si=yYBIGnNaMBG1ngz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+
 [Repositorio](https://github.com/kyranet/drakhtar)
 
-▶️​ [Trailer](https://youtu.be/aljHRY8NswA?si=BYboT_Yx2Sa9kkxEº)
+

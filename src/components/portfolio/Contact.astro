@@ -1,6 +1,7 @@
 ---
 import Heading from "../ui/Heading.astro";
 import Button from "../ui/Button.astro";
+import { Icon } from "astro-icon/components";
 
 const mail = "hello@efeele.dev";
 const title = "Ready to take your idea to the next level?";
@@ -9,29 +10,25 @@ const buttonText = "Contact Me";
 const buttonIcon = "paperplane";
 ---
 
-<section>
+<section> 
   <div
     class="w-full border-b bg-gradient-to-b from-mint-100 to-transparent dark:from-mint-800 dark:border-mint-950 border-mint-100"
+    id="contact"
   >
-    <div class="mx-auto max-w-5xl px-8 py-24 max-sm:py-12">
-      <div class="flex items-center justify-between max-sm:flex-col max-sm:gap-8 max-sm:text-center">
-        <div class="max-w-lg">
-          <Heading
-            text={title}
-            textGradient={subtitle}
-            level={2}
-          />
-        </div>
-        <div
-          class="transition-all duration-500 group-hover:animate-jump group-hover:animate-duration-[300ms] group-hover:animate-ease-in-out group-hover:scale-105 hover:scale-125"
-        >   
-          <Button
-            variant="big"
-            link={`mailto:${mail}`}
-            text={buttonText}
-            iconName={buttonIcon}
-          />
-        </div>
+    <div class="mx-auto max-w-5xl px-8 py-24 max-sm:py-12 text-center">
+      <div class="flex justify-center items-center gap-3 mb-4">
+        <Icon name="paperplane" aria-hidden="true" class="w-8 h-8 text-mint-600 dark:text-mint-300" />
+        <Heading
+          level={1}
+          textGradient= "Contacto"
+        />
+      </div>
+
+      <div class="flex justify-center items-center gap-3 mb-4">
+        <Icon name="envelope" aria-hidden="true" class="w-6 h-6 text-mint-600 dark:text-mint-300" />
+        <p class="text-xl text-gray-700 dark:text-gray-300 select-all cursor-text">
+        gonzapm7@gmail.com
+      </p>
       </div>
     </div>
   </div>
