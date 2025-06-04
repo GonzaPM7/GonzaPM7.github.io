@@ -4,8 +4,8 @@ import Header from "../components/layout/Header.astro";
 import Footer from "../components/layout/Footer.astro";
 import  SpeedInsights  from "@vercel/speed-insights/astro"
 const {
-  pageTitle = "Gonzalo Pérez Martín | Desarrollador de Videojuegos y Animador",
-  description = "PRUEBA DE DESCRIPCION",
+  pageTitle = "Gonzalo Pérez Martín | Game Developer",
+  description = "Portfolio de Gonzalo Pérez Martín",
   ogimage = {
     url: "/images/imagedefault.webp",
     alt: "",
@@ -14,6 +14,7 @@ const {
 
 const siteUrl = new URL(Astro.url).origin;
 const SEO = {
+  sitename: "Gonzalo Pérez Martín | Game Developer",
   url: siteUrl,
   locale: "en_US",
   author: "Gonzalo Pérez Martín",
@@ -53,6 +54,7 @@ const twitterimage = `${siteUrl}${ogimage.url}`;
     <meta property="og:image:alt" content={ogimage.alt} />
     <meta property="og:url" content={SEO.url} />
     <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SEO.sitename} />
     <meta property="og:locale" content={SEO.locale} />
     
 
