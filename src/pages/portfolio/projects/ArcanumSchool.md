@@ -2,7 +2,7 @@
 layout:  /src/layouts/ProjectLayout.astro
 title: 'Arcanum School'
 pubDate: 2025-04-05
-description: 'Estas herramientas permiten a los desarrolladores de juegos introducir fácilmente funciones configurables de accesibilidad auditiva de forma unificada y consistente, como la visualización de la direccionalidad del sonido y subtítulos más configurables.'
+description: 'Videojuego educativo en Unity que ayuda a niños con dislexia a diferenciar las letras B y D mediante niveles interactivos, enemigos tipográficos'
 languages: ["unity", "csharp", "visualstudio", "photoshop"]
 image:
   url: "/images/projects/ArcanumSchool.webp"
@@ -32,14 +32,16 @@ Este villano ha liberado el contenido de los libros de la biblioteca por todo el
 
 ## 🌐 Resultado
 
+👉 [Repositorio de GitHub](https://github.com/GonzaPM7/JuegosSerios_ProyectoFinal) 
+
 **▶️Trailer**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vUBQabpkmV0?si=pm4Tq6D8woEoUN-z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/vUBQabpkmV0?si=pm4Tq6D8woEoUN-z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 **🎮​Gameplay**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r3xnxUSZLwI?si=WvueJ8pn6bo7O7R0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/r3xnxUSZLwI?si=WvueJ8pn6bo7O7R0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-👉 [Repositorio](https://github.com/GonzaPM7/JuegosSerios_ProyectoFinal) 
 
 

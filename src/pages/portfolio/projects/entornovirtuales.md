@@ -19,7 +19,7 @@ A lo largo del recorrido, el jugador se enfrenta a criaturas tenebrosas, sonidos
 
 Nos enfocamos en crear una atmósfera oscura e inquietante, utilizando iluminación mínima, efectos sonoros envolventes y triggers de eventos para causar miedo y aumentar la sensación de inmersión.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W8_7t4m-TVU?si=2t9PVs2WAkuvx5ku" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/W8_7t4m-TVU?si=2t9PVs2WAkuvx5ku" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 ## Entorno en Unreal Engine
@@ -30,5 +30,5 @@ Los modelos de los edificios y los personajes fueron obtenidos de terceros; mi t
 
 Inspirado por mi afición a los juegos shooter en primera persona, decidí diseñar un mapa con un estilo similar al de Counter-Strike.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LZAHu8bgYkU?si=bokztIEsPUMP8i2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/LZAHu8bgYkU?si=bokztIEsPUMP8i2Z" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>

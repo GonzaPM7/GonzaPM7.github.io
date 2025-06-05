@@ -25,10 +25,10 @@ Retiro Adventure hace que visitar el parque sea una forma divertida de aprender,
 
 ### Resultado
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IFkb5MYfcAE?si=k0BcxWu5n3a7xwyS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/IFkb5MYfcAE?si=k0BcxWu5n3a7xwyS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-👉 [Repositorio](https://github.com/GonzaPM7/Retiro-Adventure) 
+👉 [Repositorio de Github](https://github.com/GonzaPM7/Retiro-Adventure) 
 
 ## FDI Adventure
 
@@ -40,7 +40,7 @@ Con un enfoque accesible y educativo, el juego convierte el proceso de adaptaci�
 
 ### Resultado
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mZRVteZP-Lc?si=J5Gm7KJKGHzQsoSx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/mZRVteZP-Lc?si=J5Gm7KJKGHzQsoSx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 ## 💡 Tecnologias usadas

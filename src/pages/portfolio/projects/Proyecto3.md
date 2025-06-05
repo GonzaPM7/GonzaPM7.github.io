@@ -2,7 +2,7 @@
 layout:  /src/layouts/ProjectLayout.astro
 title: 'Motor propio de videojuegos'
 pubDate: 2025-04-05
-description: 'Junto a varios compañeros de la universidad creamos un motor de videojuegos hecho desde cero y con el que desarrollamos dos pequeños juegos Mood y Gshift'
+description: 'Creación de un motor de videojuegos hecho desde cero y con el que desarrollamos dos pequeños juegos Mood y Gshift'
 languages: ["visualstudio", "cplusplus", "blender", "photoshop"]
 image:
   url: "/images/projects/Motor.webp"
@@ -25,19 +25,19 @@ El jugador puede obtener diferentes armas, como un rifle, un francotirador y una
 
 El desarrollo de **MOOD**  me permitió trabajar en múltiples áreas del proceso creativo y técnico: desde la jugabilidad y el diseño de niveles, hasta la creación de entornos, el modelado de personajes y sus animaciones, además de integrarlo todo dentro del motor que construimos desde cero.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nTHt4uVxEB4?si=I_Ieae1OoeKXw6_d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/nTHt4uVxEB4?si=I_Ieae1OoeKXw6_d" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-👉 [Repositorio](https://github.com/NoVariableGlobal/mood) 
+👉 [Repositorio de MOOD](https://github.com/NoVariableGlobal/mood) 
 
 ## G.Shift
 
 **G.Shift** es un juego arcade de desplazamiento vertical, desarrollado en nuestro propio motor. El jugador controla un cubo que avanza automáticamente hacia arriba, y la mecánica principal consiste en alternar la dirección horizontal del cubo (izquierda o derecha) mediante clics del ratón, con el objetivo de evitar colisiones con obstáculos y pinchos distribuidos a lo largo del recorrido. Además, el juego incluye un sistema de recolección de monedas que incrementa la puntuación, incentivando la precisión y rapidez en la toma de decisiones.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rmLuk22SmDs?si=WjJulTnTnOazcNpW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/rmLuk22SmDs?si=WjJulTnTnOazcNpW" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-👉 [Repositorio](https://github.com/NoVariableGlobal/g.shift) 
+👉 [Repositorio de G.Shift](https://github.com/NoVariableGlobal/g.shift) 
 
 ## 💡 Tecnologias usadas
 

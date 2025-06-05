@@ -2,7 +2,7 @@
 layout:  /src/layouts/ProjectLayout.astro
 title: 'Brokentooth Riders'
 pubDate: 2025-04-05
-description: 'Primer videojuego que realice en la universidad'
+description: 'Videojuego en 2D en Unity con disparos y plataformas, ambientado en un mundo postapocalíptico lleno de desafíos.'
 languages: ["unity", "csharp", "visualstudio", photoshop, "slack"]
 image:
   url: "/images/projects/BTR.webp"
@@ -26,8 +26,10 @@ Desarrollado en el motor de videojuegos **Unity**, utilizando el lenguaje de pro
 
 ## 🌐 Resultado
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JpjXA6yrEIs?si=06fly96azIaVfoU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+👉 [Repositorio de Github](https://assetstore.unity.com/packages/add-ons/accesible-audio-toolkit-194392) 
+
+<iframe class="w-full rounded-2xl overflow-hidden aspect-video h-auto" width="560" height="315" src="https://www.youtube.com/embed/JpjXA6yrEIs?si=06fly96azIaVfoU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-👉 [Repositorio de Github](https://assetstore.unity.com/packages/add-ons/accesible-audio-toolkit-194392) 
+
 

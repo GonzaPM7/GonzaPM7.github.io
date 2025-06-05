@@ -25,4 +25,4 @@ Este juego fue desarrollado como parte de un proyecto universitario para la asig
 
 ## 🌐 Resultado
 
-[Repositorio](https://github.com/onaranjoUCM/VM/tree/main/Practica2)
+👉 [Repositorio de Github](https://github.com/onaranjoUCM/VM/tree/main/Practica2)
