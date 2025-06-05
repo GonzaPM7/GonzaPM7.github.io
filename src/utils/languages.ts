@@ -165,6 +165,22 @@ export const languages: Record<string, Language> = {
   logoHome: {
     name: "Logo",
     iconName: "logo",
+  },
+  mando: {
+    name: "Mando",
+    iconName: "consola",
+  },
+  animacion: {
+    name: "Animacion",
+    iconName: "animacion",
+  },
+  educacion: {
+    name: "Educacion",
+    iconName: "educacion",
+  },
+  java: {
+    name: "Java",
+    iconName: "java",
   }
 };
 
