@@ -22,13 +22,13 @@ Finalmente, desarrollé capacidades para optimizar el rendimiento de las aplicac
 
 ## Manos a la obra 🎮​
 
-Durante estos años he participado en el desarrollo de numerosos proyectos de videojuegos, asumiendo roles en prácticamente todas las áreas del proceso creativo y técnico. He trabajado en **programación**, **diseño** de mecánicas y niveles, así como en el apartado **artístico**, encargándome de la creación de <a href="portfolio/projects/entornovirtuales">entornos</a>, **personajes** y **animaciones**. Además, he producido **tráilers** y materiales visuales para presentar y promocionar los juegos que he desarrollado.
+Durante estos años he participado en el desarrollo de numerosos proyectos de videojuegos, asumiendo roles en prácticamente todas las áreas del proceso creativo y técnico. He trabajado en **programación**, **diseño** de mecánicas y niveles, así como en el apartado **artístico**, encargándome de la creación de <a href="/portfolio/projects/entornovirtuales">entornos</a>, **personajes** y **animaciones**. Además, he producido **tráilers** y materiales visuales para presentar y promocionar los juegos que he desarrollado.
 
-Junto a mis compañeros de carrera, he desarrollado diversos proyectos en **Unity**, como <a href="portfolio/projects/BTR">Brokentooth Riders</a>, **juegos serios** como <a href="portfolio/projects/ArcanumSchool">Arcanum School</a> y varios prototipos. Además de trabajar con Unity, también he desarrollado videojuegos en **Visual Studio** utilizando **C++** y la librería **SDL**, destacando el proyecto <a href="portfolio/projects/FallDrakhtar">The Fall of Drakhtar</a> con el cual en en 2019, presentamos en **Guerrilla Game Festival** al público y a profesionales del sector.
+Junto a mis compañeros de carrera, he desarrollado diversos proyectos en **Unity**, como <a href="/portfolio/projects/BTR">Brokentooth Riders</a>, **juegos serios** como <a href="/portfolio/projects/ArcanumSchool">Arcanum School</a> y varios prototipos. Además de trabajar con Unity, también he desarrollado videojuegos en **Visual Studio** utilizando **C++** y la librería **SDL**, destacando el proyecto <a href="/portfolio/projects/FallDrakhtar">The Fall of Drakhtar</a> con el cual en en 2019, presentamos en **Guerrilla Game Festival** al público y a profesionales del sector.
 
-Participé también en la creación de un **motor propio de videojuegos**, con el que colaboré en el desarrollo de dos pequeños juegos: **Mood** y **Cube**. Por último, he trabajado en la creación de <a href="portfolio/projects/entornovirtuales">entornos</a> en **Unreal Engine**, ampliando así mi experiencia en distintos motores de desarrollo.
+Participé también en la creación de un **motor propio de videojuegos**, con el que colaboré en el desarrollo de dos pequeños juegos: **Mood** y **Cube**. Por último, he trabajado en la creación de <a href="/portfolio/projects/entornovirtuales">entornos</a> en **Unreal Engine**, ampliando así mi experiencia en distintos motores de desarrollo.
 
-Durante mi **Trabajo de Fin de Grado**, colaboré con un compañero en el desarrollo de una herramienta de accesibilidad auditiva para **Unity**, <a href="portfolio/projects/ATT">Accesible Audio Toolkit</a>, orientada a facilitar el diseño inclusivo en videojuegos. Este proyecto fue reconocido por su utilidad y actualmente se encuentra publicado en la **Unity Asset Store** como una contribución abierta a la comunidad de desarrolladores.
+Durante mi **Trabajo de Fin de Grado**, colaboré con un compañero en el desarrollo de una herramienta de accesibilidad auditiva para **Unity**, <a href="/portfolio/projects/ATT">Accesible Audio Toolkit</a>, orientada a facilitar el diseño inclusivo en videojuegos. Este proyecto fue reconocido por su utilidad y actualmente se encuentra publicado en la **Unity Asset Store** como una contribución abierta a la comunidad de desarrolladores.
 
 ## Experiencia Profesional en otros campos 🖥️
 
@@ -37,7 +37,7 @@ A nivel profesional, he trabajado en **Custos Mobile** como desarrollador de apl
 ## Ampliando mis capacidades en animación
 
 Complementando mi perfil técnico, he cursado el Curso en **Animación 3D: de la idea a la comercialización**, donde aprendí técnicas de animación en stop motion, 2D y 3D. Esta experiencia me permitió desarrollar un enfoque más visual y narrativo, que aplico en mis videojuegos y proyectos audiovisuales.
-Durante el curso, desarrollé cortometrajes como <a href="portfolio/animations/ImagineWheels">ImagineWheels</a> (un anuncio publicitario en stop motion) y <a href="portfolio/animations/basketballDay">Basketball Day</a>, una animación 2D con estilo cartoon creada desde cero.
+Durante el curso, desarrollé cortometrajes como <a href="/portfolio/animations/ImagineWheels">ImagineWheels</a> (un anuncio publicitario en stop motion) y <a href="/portfolio/animations/basketballDay">Basketball Day</a>, una animación 2D con estilo cartoon creada desde cero.
 
 ## Y ahora...
 
