@@ -3,7 +3,7 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'Juegos Serios'
 pubDate: 2025-04-05
 description: 'Desarrollo de dos juegos educativos con Unity: uno para enseñar el parque del Retiro y otro para orientar a nuevos estudiantes en la Facultad de Informática de la UCM.'
-languages: [unity, visualstudio]
+languages: [unity, visualstudio, githubsvg]
 image:
   url: "/images/projects/juegosserio.webp"
   alt: "Thumbnail of Astro arches."

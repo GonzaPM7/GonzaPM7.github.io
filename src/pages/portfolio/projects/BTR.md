@@ -3,7 +3,7 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'Brokentooth Riders'
 pubDate: 2025-04-05
 description: 'Videojuego en 2D en Unity con disparos y plataformas, ambientado en un mundo postapocalíptico lleno de desafíos.'
-languages: ["unity", "csharp", "visualstudio", photoshop, "slack"]
+languages: ["unity", "csharp", "visualstudio", photoshop, "slack", githubsvg]
 image:
   url: "/images/projects/BTR.webp"
   alt: "Thumbnail of Astro arches."

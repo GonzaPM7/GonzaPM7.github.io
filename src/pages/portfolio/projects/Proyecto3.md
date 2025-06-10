@@ -3,7 +3,7 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'Motor propio de videojuegos'
 pubDate: 2025-04-05
 description: 'Creación de un motor de videojuegos hecho desde cero y con el que desarrollamos dos pequeños juegos Mood y Gshift'
-languages: ["visualstudio", "cplusplus", "blender", "photoshop"]
+languages: ["visualstudio", "cplusplus", "blender", "photoshop", githubsvg]
 image:
   url: "/images/projects/Motor.webp"
   alt: "Thumbnail of Astro arches."

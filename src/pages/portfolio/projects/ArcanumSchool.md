@@ -3,7 +3,7 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'Arcanum School'
 pubDate: 2025-04-05
 description: 'Videojuego educativo en Unity que ayuda a niños con dislexia a diferenciar las letras B y D mediante niveles interactivos, enemigos tipográficos'
-languages: ["unity", "csharp", "visualstudio", "photoshop"]
+languages: ["unity", "csharp", "visualstudio", "photoshop", githubsvg]
 image:
   url: "/images/projects/ArcanumSchool.webp"
   alt: "Thumbnail of Astro arches."

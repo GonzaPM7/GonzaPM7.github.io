@@ -3,7 +3,7 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'Mazes & More'
 pubDate: 2025-04-05
 description: 'Reimplementación del juego Mazes & More, desarrollada como una aplicación multiplataforma para PC y Android.'
-languages: [unity, csharp, visualstudio, githubsvg]
+languages: [unity, csharp, visualstudio, githubsvg, githubsvg]
 image:
   url: "/images/projects/MazesMore.webp"
   alt: "Thumbnail of Astro arches."

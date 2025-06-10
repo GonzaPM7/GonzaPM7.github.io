@@ -32,7 +32,7 @@ Durante mi **Trabajo de Fin de Grado**, colaboré con un compañero en el desarr
 
 ## Experiencia Profesional en otros campos 🖥️
 
-A nivel profesional, he trabajado en **Custos Mobile** como desarrollador de aplicaciones para terminales de punto de venta (TPV), participando en la creación de soluciones de pago electrónico (EFT-POS) y medios de pago adaptados a distintas plataformas y necesidades del mercado.
+A nivel profesional, he trabajado en **Custos Mobile** como desarrollador de aplicaciones para terminales de punto de venta (TPV), participando en la creación de soluciones de pago electrónico (EFT-POS) y medios de pago adaptados a distintas plataformas y necesidades del mercado, lo que me permitió reforzar mis habilidades en **C/C++** con un enfoque en eficiencia y seguridad.
 
 ## Ampliando mis capacidades en animación
 

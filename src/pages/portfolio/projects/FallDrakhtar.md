@@ -3,7 +3,7 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'The Fall of Drakhtar'
 pubDate: 2025-04-05
 description: 'Videojuego de estrategia por turnos con combates tácticos hecho en Visual Studio con la libreria SDL2'
-languages: [visualstudio, photoshop, davinci]
+languages: [visualstudio, photoshop, davinci, githubsvg]
 image:
   url: "/images/projects/LogoDrakhtar.webp"
   alt: "Thumbnail of Astro arches."

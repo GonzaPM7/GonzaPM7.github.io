@@ -3,7 +3,7 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'Accesible Audio Toolkit'
 pubDate: 2025-04-05
 description: 'Herramienta de accesibilidad auditiva para desarrolladores en Unity'
-languages: ["unity", "csharp", "visualstudio", "slack"]
+languages: ["unity", "csharp", "visualstudio", "slack", githubsvg]
 image:
   url: "/images/projects/att.webp"
   alt: "Thumbnail of Astro arches."
