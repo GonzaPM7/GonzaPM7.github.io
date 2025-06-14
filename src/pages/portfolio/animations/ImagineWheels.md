@@ -1,6 +1,6 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
-title: 'ImagineWheels'
+title: 'ImagineWheels | Stop Motion'
 pubDate: 2025-04-05
 description: 'Animación en stop motion de un anuncio publicitario para un coche de juguete de una marca ficticia llamada ImagineWheels.'
 languages: ["davinci", photoshop]

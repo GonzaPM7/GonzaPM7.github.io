@@ -1,7 +1,7 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
-title: 'Basketball Day'
-pubDate: 2025-04-05
+title: 'Basketball Day | 2D Animation'
+pubDate: 2025-05-05
 description: 'Corto de Animación 2D sobre un niño que intenta recuperar su pelota atascada, causando divertidos y caóticos problemas.'
 languages: [opentoonz, "davinci", photoshop, procreate]
 image:

@@ -1,7 +1,7 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
 title: 'First Person Shooter | 3D Animation'
-pubDate: 2025-04-05
+pubDate: 2025-06-05
 description: 'Animación 3D realizada en Blender para un videojuego shooter en primera persona'
 languages: ["blender"]
 image:
